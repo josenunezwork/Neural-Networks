@@ -1,5 +1,6 @@
 # Neural-Networks
 project related to NN training, visuals, learning
+
 Project 1:
 Visual of Neural Networks
 - See edges update in real time to see how Neural networks work
