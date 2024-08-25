@@ -9,7 +9,7 @@ Outline:
 - UI
     - Main window
     - Search for stock and pass ticker to backend
-    - displa downlaoding of ticker info
+    - display downloading of ticker info
     - Have preloaded sqlite db stock data to choose from
     - have start training button to call ml model to train
         - Loss per epoch
